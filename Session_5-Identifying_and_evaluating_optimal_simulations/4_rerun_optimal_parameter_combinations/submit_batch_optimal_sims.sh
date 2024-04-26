@@ -35,7 +35,7 @@ empFUNC_dir="/path/to/empFUNC/saves"
 dt=0.005
 
 # simulation length (unit depends on model setup) - desired length of simulated time series - not to be confused with time_per_sim
-sim_len='30e3'
+sim_len='30000'
 
 # Number of simulations per job
 num_sims_per_job=3
@@ -49,7 +49,7 @@ mkdir -p "${FCD_dir}/"
 mkdir -p "${log_dir}/"
 mkdir -p "${sim_dir}/"
 
-total_lines=$(wc -l < "$PARAM_FILE")
+total_lines=$(($(wc -l < "$PARAM_FILE") - 1))
 num_jobs=$(( (total_lines + num_sims_per_job - 1) / num_sims_per_job ))  # Calculate the number of jobs needed
 
 sbatch -J "optimal_parameters_rerun" --array=1-$num_jobs \
