@@ -9,10 +9,10 @@
 SUBMISSION_SCRIPT_DIR='/path/to/Session_5-Identifying_and_evaluating_optimal_simulations/2_PSE_all_metrics'
 
 # List of subjects
-sublist="${SUBMISSION_SCRIPT_DIR}/subs.tsv"
+sublist="path/to/subs.tsv"
 
 # Path to a subject's weights matrix txt file - the {subject} portion will be replaced dynamically in the python script
-weights_file_pattern="${SUBMISSION_SCRIPT_DIR}/subs/{subject}/weights.txt"
+weights_file_pattern="path/to/subs/{subject}/weights.txt"
 
 # Output file for job parameters
 param_file="${SUBMISSION_SCRIPT_DIR}/PSE_job_parameters.txt"
