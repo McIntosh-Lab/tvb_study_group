@@ -31,7 +31,7 @@ FCD_file_pattern=$6
 empFUNC_dir=$7
 dt=$8 
 sim_len=$9
-sim_file_pattern=$10
+sim_file_pattern=${10}
 
 # Calculate the starting and ending line based on the SLURM_ARRAY_TASK_ID
 start_line=$(((SLURM_ARRAY_TASK_ID - 1) * num_sims_per_job + 2))
