@@ -11,7 +11,7 @@
 ### ====================================
 
 # Location of your submission script directory
-SUBMISSION_SCRIPT_DIR='/path/to/Session_5-Jobs_and_PSE/2_PSE_all_metrics'
+SUBMISSION_SCRIPT_DIR='/path/to/Session_5-Jobs_and_PSE/4_rerun_optimal_parameter_combinations'
 
 # Load in env
 module load scipy-stack
