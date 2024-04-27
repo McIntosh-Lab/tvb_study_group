@@ -6,7 +6,7 @@
 ### ====================================
 
 # Location of your submission script directory
-SUBMISSION_SCRIPT_DIR='/path/to/Session_5-Jobs_and_PSE'
+SUBMISSION_SCRIPT_DIR='/path/to/Session_5-Jobs_and_PSE/2_PSE_all_metrics'
 
 # List of subjects
 sublist="${SUBMISSION_SCRIPT_DIR}/subs.tsv"
