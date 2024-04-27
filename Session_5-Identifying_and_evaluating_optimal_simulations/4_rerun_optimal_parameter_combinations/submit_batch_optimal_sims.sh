@@ -5,7 +5,7 @@
 ### ====================================
 
 # Location of your submission script directory
-SUBMISSION_SCRIPT_DIR='/path/to/Session_5-Jobs_and_PSE/4_rerun_optimal_parameter_combinations'
+SUBMISSION_SCRIPT_DIR='/path/to/Session_5-Identifying_and_evaluating_optimal_simulations/4_rerun_optimal_parameter_combinations'
 
 # Paths to TSV files for optimal parameters
 PARAM_FILE="path/to/optimal_FCD_var_for_each_subject.tsv" # THIS CAN BE CHANGED TO FCD_KS, FC_corr, or FCDvar_diff
