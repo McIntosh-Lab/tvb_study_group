@@ -41,6 +41,6 @@ end_line=$((start_line + num_sims_per_job - 1))
 
 
 # Read the parameters for the current job from start_line to end_line
-sed -n "${start_line},${end_line}p" $param_file | while IFS='\t' read -r subject noise G metric_value; do
+sed -n "${start_line},${end_line}p" $param_file | while IFS=$'\t' read -r subject noise G metric_value; do
   python ${SUBMISSION_SCRIPT_DIR}/single_sim_handler.py $subject $noise $G $dt $sim_len $time_per_sim $SLURM_JOB_ID $SLURM_ARRAY_TASK_ID $weights_file_pattern $results_file_pattern $FCD_file_pattern $empFUNC_dir $sim_file_pattern
 done
