@@ -48,6 +48,7 @@ time_per_sim=1000
 mkdir -p "${FCD_dir}/"
 mkdir -p "${log_dir}/"
 mkdir -p "${sim_dir}/"
+mkdir -p "${results_dir}/"
 
 total_lines=$(($(wc -l < "$PARAM_FILE") - 1))
 num_jobs=$(( (total_lines + num_sims_per_job - 1) / num_sims_per_job ))  # Calculate the number of jobs needed
