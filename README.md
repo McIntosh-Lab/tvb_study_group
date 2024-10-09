@@ -11,7 +11,7 @@ If you're looking for our TVB modelling workflow, see the Notebooks and Homework
 
 _Some of the foundational theory - an introduction to the what, why, and how of modelling with The Virtual Brain._
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1m162HYdZUSFA2WCnUa9mi3SdtjetL12cw4RU8mI_GLk/edit?usp=drive_link) - [Recording]([https://drive.google.com/file/d/1q-3oktGHEHHoSJy5DylOswcchL2CuJ4h/view?usp=sharing](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EfPr6L_q7qhMnKndRV4BMIEB8UuRWvn7iyoz1XNix1yJww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nVWeiK)) - [Resources](https://github.com/McIntosh-Lab/tvb_study_group/blob/main/Session%201%3A%20Theory/Session%201%3A%20Theory.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1m162HYdZUSFA2WCnUa9mi3SdtjetL12cw4RU8mI_GLk/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EfPr6L_q7qhMnKndRV4BMIEB8UuRWvn7iyoz1XNix1yJww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nVWeiK) - [Resources](https://github.com/McIntosh-Lab/tvb_study_group/blob/main/Session%201%3A%20Theory/Session%201%3A%20Theory.md)
 
 <br>
 
