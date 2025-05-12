@@ -23,6 +23,8 @@ We strongly recommend going through all the course material in this repository b
 
 <br>
 
+## COURSE OVERVIEW
+
 ## Session 1: Theory
 
 _Some of the foundational theory - an introduction to the what, why, and how of modelling with The Virtual Brain._
