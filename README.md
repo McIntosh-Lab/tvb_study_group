@@ -24,7 +24,7 @@ _What needs to be done with our neuroimaging data before we can start creating o
 <br>
 
 ## Session 3: Simulation
-&nbsp;&nbsp;&nbsp;&nbsp;Slides - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EVU7MR6JeIpKn8nb44BiD9IBtWGRIv4o2o3lPM-JHcS27w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QeCJTl) - [Notebooks](Session_3-Simulation/Session3_Single_Simulation.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;No Slides - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EVU7MR6JeIpKn8nb44BiD9IBtWGRIv4o2o3lPM-JHcS27w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QeCJTl) - [Notebooks](Session_3-Simulation/Session3_Single_Simulation.ipynb)
 
 <br>
 
@@ -39,4 +39,4 @@ _What needs to be done with our neuroimaging data before we can start creating o
 <br>
 
 ## Session 6: Analyses
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/19SKdmSUgU53EFdFqIxvTQMlsPrS7PcvaE6op9ZtRY8E/edit?usp=share_link) - [Notebooks](Session_6-Analyses/Session6_Investigating_Noise_Seeds.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/19SKdmSUgU53EFdFqIxvTQMlsPrS7PcvaE6op9ZtRY8E/edit?usp=share_link) - No Recording - [Notebooks](Session_6-Analyses/Session6_Investigating_Noise_Seeds.ipynb)
