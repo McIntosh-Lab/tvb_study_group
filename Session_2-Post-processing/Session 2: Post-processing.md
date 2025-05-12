@@ -1,6 +1,6 @@
 # Session 2 - Imaging inputs and post-processing considerations for brain network modelling
 
-&nbsp;&nbsp;&nbsp;&nbsp;Slide deck for this session can be found [here](https://docs.google.com/presentation/d/1D30noTEmEf7WG79DQvx8s5TIpO1v7XMXegMtXps2ouo/edit?usp=drive_link) and the recording can be found [here](https://drive.google.com/file/d/1euKWnCgXBa5VgL0M7E3UNX8w-OBO3-Vz/view?usp=drive_link).
+&nbsp;&nbsp;&nbsp;&nbsp;Slide deck for this session can be found [here](https://docs.google.com/presentation/d/1D30noTEmEf7WG79DQvx8s5TIpO1v7XMXegMtXps2ouo/edit?usp=drive_link) and the recording can be found [here](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EVdHkycGT_VBscB6KE7Z4F0BNmcmErMSRIpNWQ_SkF5sPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aA0YLz).
 
 <br>
 
