@@ -2,7 +2,7 @@
 
 This is the repository for The Virtual Brain (TVB) Study Group, a introductory course to running TVB simulations with Python. Resources (documentation, notebooks, tutorials) for each session can be found within each session's folders above or by clicking the links below.
 
-If you're looking for our TVB modelling workflow, see the Notebooks and Homework for each session. A Quick-start Guide featuring our entire TVB workflow in a single document will also be released shortly!
+If you're looking for our TVB modelling workflow, see the Notebooks and Homework for each session. A Quick-start Guide featuring our entire TVB workflow in a single document will also be released shortly! 
 
 <br>
 
@@ -14,7 +14,13 @@ In order to execute the Notebooks in this repository, you will need to 1) instal
 
 2. See points 1 through 3 [here](https://github.com/McIntosh-Lab/tvb_study_group/blob/main/Session_2-Post-processing/Session%202%3A%20Post-processing.md#homework) for information about access to DRA computing resources.
 
-   
+
+## QUICKSTART SIMULATION
+
+We strongly recommend going through all the course material in this repository before using the quickstart code.
+
+
+
 <br>
 
 ## Session 1: Theory
