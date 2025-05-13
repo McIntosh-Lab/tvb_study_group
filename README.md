@@ -14,6 +14,7 @@ In order to execute the Notebooks in this repository, you will need to 1) instal
 
 3. See points 1 through 3 [here](https://github.com/McIntosh-Lab/tvb_study_group/blob/main/Session_2-Post-processing/Session%202%3A%20Post-processing.md#homework) for information about access to DRA computing resources.
 
+<br>
 
 ## QUICKSTART SIMULATION
 
