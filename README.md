@@ -10,14 +10,14 @@ If you're looking for our TVB modelling workflow, see the Notebooks and Homework
 
 In order to execute the Notebooks in this repository, you will need to 1) install TVB and 2) have access to high-performance computing resources, specifically the [Digital Research Alliance of Canada (DRA)](https://www.alliancecan.ca/en) compute clusters. 
 
-1. Install TVB with these [Quickstart Installation Instructions](https://github.com/McIntosh-Lab/tvb_demo/#installation-quickstart)
+1. Install TVB with these [Quickstart Installation Instructions](https://github.com/McIntosh-Lab/tvb_demo/#installation-quickstart). If you encounter different instructions in a notebook or recording, always follow the steps provided in the tvb_demo instead as it is more up-to-date.
 
-2. See points 1 through 3 [here](https://github.com/McIntosh-Lab/tvb_study_group/blob/main/Session_2-Post-processing/Session%202%3A%20Post-processing.md#homework) for information about access to DRA computing resources.
+3. See points 1 through 3 [here](https://github.com/McIntosh-Lab/tvb_study_group/blob/main/Session_2-Post-processing/Session%202%3A%20Post-processing.md#homework) for information about access to DRA computing resources.
 
 
 ## QUICKSTART SIMULATION
 
-We strongly recommend going through all the course material in this repository before using the quickstart code.
+We strongly recommend going through all the course material in this repository before using the quickstart simulation code here.
 
 
 
