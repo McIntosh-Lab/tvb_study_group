@@ -30,7 +30,7 @@ We strongly recommend going through all the course material in this repository b
 
 _Some of the foundational theory - an introduction to the what, why, and how of modelling with The Virtual Brain._
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1m162HYdZUSFA2WCnUa9mi3SdtjetL12cw4RU8mI_GLk/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EfPr6L_q7qhMnKndRV4BMIEB8UuRWvn7iyoz1XNix1yJww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nVWeiK) - [Notes](Session_1-Theory/Session%201%3A%20Theory.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1m162HYdZUSFA2WCnUa9mi3SdtjetL12cw4RU8mI_GLk/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EfPr6L_q7qhMnKndRV4BMIEBjfQIFJbZaM_fxOUvnMuMIg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Jjam4s) - [Notes](Session_1-Theory/Session%201%3A%20Theory.md)
 
 <br>
 
@@ -38,7 +38,7 @@ _Some of the foundational theory - an introduction to the what, why, and how of 
 
 _What needs to be done with our neuroimaging data before we can start creating our TVB models?_
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1D30noTEmEf7WG79DQvx8s5TIpO1v7XMXegMtXps2ouo/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EVdHkycGT_VBscB6KE7Z4F0BNmcmErMSRIpNWQ_SkF5sPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aA0YLz) - [Notes](Session_2-Post-processing/Session%202%3A%20Post-processing.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1D30noTEmEf7WG79DQvx8s5TIpO1v7XMXegMtXps2ouo/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EVdHkycGT_VBscB6KE7Z4F0BPPD7KVjKVHhxYLQU2NHcUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DWHDEX) - [Notes](Session_2-Post-processing/Session%202%3A%20Post-processing.md)
 
 <br>
 
@@ -46,7 +46,7 @@ _What needs to be done with our neuroimaging data before we can start creating o
 
 _Example simulation code for a single set of parameter combinations._
 
-&nbsp;&nbsp;&nbsp;&nbsp;No Slides - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EVU7MR6JeIpKn8nb44BiD9IBtWGRIv4o2o3lPM-JHcS27w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QeCJTl) - [Notebook](Session_3-Simulation/Session3_Single_Simulation.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;No Slides - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EVU7MR6JeIpKn8nb44BiD9IB8yJJkqfycfgY4wCxx9B6ag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8CdC0g) - [Notebook](Session_3-Simulation/Session3_Single_Simulation.ipynb)
 
 <br>
 
@@ -54,7 +54,7 @@ _Example simulation code for a single set of parameter combinations._
 
 _Parameter sweeps. How to submit multiple simulations as jobs on a HPC cluster._
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/19SKdmSUgU53EFdFqIxvTQMlsPrS7PcvaE6op9ZtRY8E/edit?usp=share_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EYDUUvjf-wtNocPzvwJDj1IBStEKTyTIQGLifi1CD1xkeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mlcLtO) - [Scripts](Session_4-Jobs_and_PSE)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/19SKdmSUgU53EFdFqIxvTQMlsPrS7PcvaE6op9ZtRY8E/edit?usp=share_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EYDUUvjf-wtNocPzvwJDj1IBbLpEv0laM5e2jEwInNTtIw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i5YR3G) - [Scripts](Session_4-Jobs_and_PSE)
 
 <br>
 
@@ -62,7 +62,7 @@ _Parameter sweeps. How to submit multiple simulations as jobs on a HPC cluster._
 
 _Taking a look at some of our parameter sweep and simulation outputs. What are our optimal simulations and parameter combinations?_
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/19SKdmSUgU53EFdFqIxvTQMlsPrS7PcvaE6op9ZtRY8E/edit?usp=share_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EYgkdHbSpZhBsUh0rvB6xgkBC8rgz1r7-1R3TXx0oZ5wGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0VP5XX) - [Notes](Session_5-Identifying_and_evaluating_optimal_simulations/Session_5-Identifying_and_evaluating_optimal_simulations.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/19SKdmSUgU53EFdFqIxvTQMlsPrS7PcvaE6op9ZtRY8E/edit?usp=share_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/EYgkdHbSpZhBsUh0rvB6xgkBm1q2vQIYVd7e3NQI3TMfSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iPPhB7) - [Notes](Session_5-Identifying_and_evaluating_optimal_simulations/Session_5-Identifying_and_evaluating_optimal_simulations.md)
 	
 <br>
 
