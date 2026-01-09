@@ -30,7 +30,7 @@ We strongly recommend going through all the course material in this repository b
 
 _Some of the foundational theory - an introduction to the what, why, and how of modelling with The Virtual Brain._
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1m162HYdZUSFA2WCnUa9mi3SdtjetL12cw4RU8mI_GLk/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/IQAs92Ns_RoZSbmO5WtA5RQDAW-4X9BlDK0dQ6Pfo0ZFQfo?e=5YOeQZ) - [Notes](Session_1-Theory/Session%201%3A%20Theory.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1m162HYdZUSFA2WCnUa9mi3SdtjetL12cw4RU8mI_GLk/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/IQAu9MseNzF2QrHEVJYT4otsAXD9Sh5jCzpAv5hbsXZwsRI?e=Qlkh9I) - [Notes](Session_1-Theory/Session%201%3A%20Theory.md)
 
 <br>
 
@@ -38,7 +38,7 @@ _Some of the foundational theory - an introduction to the what, why, and how of 
 
 _What needs to be done with our neuroimaging data before we can start creating our TVB models?_
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1D30noTEmEf7WG79DQvx8s5TIpO1v7XMXegMtXps2ouo/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/IQAh0JQZunjqSo4R3UYjxJNcAXjA4HsNCTe0CwLgIRHjjY0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aqKaXP) - [Notes](Session_2-Post-processing/Session%202%3A%20Post-processing.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://docs.google.com/presentation/d/1D30noTEmEf7WG79DQvx8s5TIpO1v7XMXegMtXps2ouo/edit?usp=drive_link) - [Recording](https://1sfu-my.sharepoint.com/:v:/g/personal/jwa415_sfu_ca/IQAGFfiVPFMWRqVWmwzw7qZgAfo3NMAcVSizDHfWi-LuTnw?e=b9eJaw) - [Notes](Session_2-Post-processing/Session%202%3A%20Post-processing.md)
 
 <br>
 
