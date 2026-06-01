@@ -94,7 +94,8 @@ def process_sub(subject, my_noise, G, dt, sim_len, weights_file_pattern, FCD_fil
     # Calculate sim FC, FCD, FCD var
     simFC = compute_simFC(bold_d)
     FCD, _ = utils.compute_fcd(bold_d[:,0,:,0], win_len=20)
-    FCD_VAR_OV_vect= np.var(np.triu(FCD, k=20))
+    FCDvar_iu = np.triu_indices_from(FCD, k=20)
+    FCD_VAR_OV_vect= np.var(FCD[FCDvar_iu])
 
     # Save sim FC, FCD to files
     np.save(sim_file + 'FC.npy', simFC)
@@ -106,8 +107,10 @@ def process_sub(subject, my_noise, G, dt, sim_len, weights_file_pattern, FCD_fil
 
     
     # Calculate metrics comparing sim and emp func features
-    FCD_KS, _ = ks_2samp(np.triu(empFCD).flatten(), np.triu(FCD).flatten())
-    FC_corr = np.corrcoef(np.triu(empFC).flatten(), np.triu(simFC).flatten())[0, 1]
+    iu = np.triu_indices_from(empFCD, k=1)
+    FC_iu = np.triu_indices_from(simFC, k=1)
+    FCD_KS, _ = ks_2samp(empFCD[iu], FCD[iu])
+    FC_corr = np.corrcoef(empFC[FC_iu], simFC[FC_iu])[0, 1]
     FCDvar_diff= abs(empFCDvar - FCD_VAR_OV_vect)
 
     
