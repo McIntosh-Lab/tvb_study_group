@@ -50,7 +50,8 @@ if __name__ == "__main__":
         FCD, _ = utils.compute_fcd(ts, win_len=20)
         save_path = f'{save_dir}/{sub}_empFCD.npy'
         np.save(save_path, FCD)
-
-        FCD_VAR_OV_vect= np.var(np.triu(FCD, k=20))
+        
+        FCDvar_iu = np.triu_indices_from(FCD, k=20)
+        FCD_VAR_OV_vect= np.var(FCD[FCDvar_iu])
         save_path = f'{save_dir}/{sub}_empFCDvar.npy'
         np.save(save_path, FCD_VAR_OV_vect)
