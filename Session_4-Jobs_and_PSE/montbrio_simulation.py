@@ -64,7 +64,8 @@ def process_sub(subject, my_noise, G, dt, sim_len, weights_file_pattern, FCD_fil
     bold_t = bold_t[8:]
     bold_d = bold_d[8:]
     FCD, _ = utils.compute_fcd(bold_d[:,0,:,0], win_len=5)
-    FCD_VAR_OV_vect= np.var(np.triu(FCD, k=5))
+    FCDvar_iu= np.triu_indices_from(FCD,k=5)
+    FCD_VAR_OV_vect= np.var(FCD[FCDvar_iu])
 
     # Calculate time taken
     end_time = time.time()
